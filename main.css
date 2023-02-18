@@ -1,0 +1,18 @@
+/* This CSS file can be used to control things like colours, fonts and position of content on the page. Basically,
+  it controls the visual "style" of your webpage, while the HTML file controls the content of your webpage (text, images, links etc.).
+  Notice that comments look different in CSS.
+*/
+
+body {
+  /* Remember to use American spelling in your code (color, instead of colour). */
+  background-color: cyan; 
+}
+
+h1 {
+  color: white; 
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
